@@ -1,5 +1,5 @@
 ![arpita cover photo](https://user-images.githubusercontent.com/101001190/226173977-155c4d5a-17e5-4b44-b2ef-ea0119bd8123.png)
-<h1 align="center">Hi 👋, I'm Arpita Gupta</h1>
+<h1 align="center">Hi 👋, I'm Arpita Gupta | Postman SE </h1>
 <h3 align="center">A passionate frontend Android Developer from Chattisgarh,India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpitaagupta&label=Profile%20views&color=0e75b6&style=flat" alt="arpitaagupta" /> </p>
