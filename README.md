@@ -56,17 +56,18 @@ You can find my publications on Medium and Hashnode, where I share career tips, 
 -->
 
 ### Connect with me!
-<div>
-    <a href="https://www.linkedin.com/in/arpita-gupta-17171a254/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/linkedin.png" alt="LinkedIn" style="background-color:#e6cadf; padding:4px; border-radius:8px;" width="30" height="30">
+<p align="left">
+  <a href="https://www.linkedin.com/in/arpita-gupta-17171a254/" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="30" alt="LinkedIn"/>
   </a>
   <a href="https://x.com/GuptaArpita_dev" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/twitterx--v1.png" alt="X" style="background-color:#e6cadf; padding:4px; border-radius:8px;" width="30" height="30">
+    <img src="https://img.icons8.com/ios-filled/50/000000/twitterx--v1.png" width="30" alt="X"/>
   </a>
   <a href="https://www.instagram.com/_arpita_.11/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/instagram-new--v1.png" alt="Instagram" style="background-color:#e6cadf; padding:4px; border-radius:8px;" width="30" height="30">
+    <img src="https://img.icons8.com/color/48/instagram-new--v1.png" width="30" alt="Instagram"/>
   </a>
-</div>
+</p>
+
 
 
 <!--
